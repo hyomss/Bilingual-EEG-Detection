@@ -19,5 +19,5 @@ For time series clustering, I first preprocessed the EEG data by centering it to
 CNN model is well-suited for capturing local patterns in EEG data, effectively learning features like the N400 effect within specific time intervals. 1D CNN model outperformed clustering in terms of accuracy.  
 The computational environment was a basic Jupyter Notebook, and the CNN model took about 5 minutes to run.  
  
-This Datathon was graded on a 20-point scale, and my presentation and code earned 11 points—just 3.75 points behind the winning team—all while competing solo!  
+This Datathon was graded on a 15-point scale, and my presentation and code earned 11 points—just 3.75 points behind the winning team—all while competing solo!  
 It was an incredible experience working with biological data, exploring the potential applications of EEG data, and discovering key factors within the dataset.
